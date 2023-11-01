@@ -18,12 +18,6 @@ Users must clone the repository, https://github.com/alexisstrong11/Employee-Trac
 ## **Usage**
 Run node index.js to begin the command prompt on your terminal. 
 - - - -
-## **Preview**
-
-Video recording of the running application:
-
-
-- - - -
 ## **License**
 MIT License
 
